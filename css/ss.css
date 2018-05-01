@@ -4,3 +4,7 @@ html{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+video{
+  text-align: center;
+}

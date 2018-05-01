@@ -3,6 +3,10 @@ h1 { font-family: sans-serif;
   text-align: center;
 }
 
+video {
+  text-align: center;
+}
+
 body {
     /* The image used */
     background-image:url("paper.jpg");
